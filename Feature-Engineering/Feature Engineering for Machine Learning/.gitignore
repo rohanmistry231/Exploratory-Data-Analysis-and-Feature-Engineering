@@ -1,0 +1,15 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# datasets
+.csv
+*.zip
+*.data
+*.txt
+
+# files not to put in repo
+Make-toy-finance-dataset.ipynb
+old-datasets
+Datasets/houseprice.csv
+Datasets/online_retail_II.xlsx
+exercises/datasets/*.csv
